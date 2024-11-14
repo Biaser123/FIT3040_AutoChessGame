@@ -1,0 +1,12 @@
+# Unreal Engine
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.idea/
+
+# Visual Studio
+.vscode/
+.vs/
+.vsconfig
+.sln
